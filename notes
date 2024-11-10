@@ -1,0 +1,2 @@
+curl -X POST https://opulent-doodle-wr7jjp65j7rrfxpp-3000.app.github.dev//inserisci-punteggio -H "Content-Type: application/json" -d '{"squadra1": "Team A", "punteggio1": 5, "squadra2": "Team B", "punteggio2": 3}'
+eggio -H "Content-Type: application/json" -d '{"squadra1": "Team A", "punteggio1": 5, "squadra2": "Team B"curl -X POST https://opulent-doodle-wr7jjp65j7rrfxpp-3000.app.github.dev/inserisci-punt, "punteggio2": 3}'
